@@ -1,5 +1,5 @@
 - Hello I'm Brayden
-- I am a computer science student currently enrolled at Coconino Community College.
+- Self-taught programmer looking for work.
 - bray.russell@live.com
 
 
